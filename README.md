@@ -12,3 +12,10 @@
 + CSS
 + PHP
 
+- I'm a developer since 2 years and I have many projects with different languages.
+    + Video games
+    + Discord bot
+    + Minecraft plugin
+    + Website
+    + NodeJS Module
+    + etc...
