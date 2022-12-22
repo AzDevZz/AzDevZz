@@ -5,8 +5,6 @@
 **I use :**
 + Javascript
 + Python
-+ Typescript
-+ C#
 + Go
 + HTML
 + CSS
